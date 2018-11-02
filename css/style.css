@@ -387,6 +387,7 @@ body{
 	margin-bottom:5px;
 	text-align: right;
 	/* color: #ffffff6b; */
+	cursor:pointer;
 }
 li{
 	color: #ffffff6b;
